@@ -1,0 +1,6 @@
+@MotoRepAPI_HostAddress = http://localhost:5215
+
+GET {{MotoRepAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
