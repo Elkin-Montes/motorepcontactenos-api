@@ -12,6 +12,7 @@ namespace MotoRepAPI.Models
         public string Correo { get; set; }
         public string Telefono { get; set; }
         public string Mensaje { get; set; }
+        public string Asunto { get; set; }
         public DateTime FechaRegistro { get; set; }
 
     }
